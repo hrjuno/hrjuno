@@ -12,13 +12,14 @@
 
 ###
 
-<img align="right" height="170" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExejJ6Y2c1ZnM2OTk5N2Rwam42NzNsaXo1MWpvaWYxN3c2bXl0M29zcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OLPQ6z2hlHmwFc4Hso/giphy.gif"  />
+
 
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=hrjuno&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="155" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hrjuno&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=true" height="155" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=hrjuno&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="170" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hrjuno&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=true" height="170" alt="languages graph"  />
+  <img height="170" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExejJ6Y2c1ZnM2OTk5N2Rwam42NzNsaXo1MWpvaWYxN3c2bXl0M29zcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OLPQ6z2hlHmwFc4Hso/giphy.gif"  />
 </div>
 
 ###
