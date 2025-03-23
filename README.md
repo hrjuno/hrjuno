@@ -1,3 +1,9 @@
+<div align="center">
+  <img src="https://profile-counter.glitch.me/hrjuno/count.svg?"  />
+</div>
+
+###
+
 <h1 align="left">Hi 👋! My name is Juno</h1>
 
 ###
